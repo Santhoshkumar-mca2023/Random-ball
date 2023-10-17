@@ -6,5 +6,5 @@ This HTML and javascript code creates an interactive webpage titled "Move balls.
 # step to run the project
 open the github link to run the ramdom ball movement program
 
-#future implements
+# future implements
 This project can be further enhanced by adding special effects link the ball hiting special target
